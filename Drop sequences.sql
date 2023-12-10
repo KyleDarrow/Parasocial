@@ -1,0 +1,14 @@
+DROP SEQUENCE city_seq;
+DROP SEQUENCE landmark_seq;
+DROP SEQUENCE location_seq;
+DROP SEQUENCE account_seq;
+DROP SEQUENCE photo_seq;
+DROP SEQUENCE tag_seq;
+DROP SEQUENCE video_seq;
+DROP SEQUENCE rating_seq;
+DROP SEQUENCE interaction_seq;
+DROP SEQUENCE answer_seq;
+DROP SEQUENCE question_seq;
+DROP SEQUENCE asker_seq;
+DROP SEQUENCE filter_seq;
+DROP SEQUENCE airesponsechange_seq;
